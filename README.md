@@ -1,5 +1,7 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vfarcic/devops-toolkit)
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/ad82014b-210c-430d-95bf-49e26805c108.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/devops-toolkit?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/9319d542-eb3b-4b4f-a246-85bd63e4a07e.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/devops-toolkit?orgId=561911742905)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/bdbe3424-975d-466d-91f9-fabb0754e784.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/devops-toolkit?orgId=561911742905)  
+
 # [The DevOps Toolkit Series](http://www.devopstoolkitseries.com)
 
 ```bash
